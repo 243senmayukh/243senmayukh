@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+I am Mayukh Sen, I am in intermediate school
+🌱 I’m currently learning : Python and basics of Git and Github
+👯 I’m looking to collaborate on: Any new project that could teach me and is challenging
+💬 Ask me about: I have nothing interesting expect my school life 😉
+📫 How to reach me: Anytime at senmayukh33@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I love coding and making stuff on my own
 <!--
 **243senmayukh/243senmayukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
